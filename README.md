@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React.js , Node.js**
 
-- 👨‍💻 All of my projects are available at [https://ayushthakur3001.github.io/Portfolio-Ayush_Thakur/](https://ayushthakur3001.github.io/Portfolio-Ayush_Thakur/)
-
 - 💬 Ask me about **React Native, Web Applications, MERN**
 
 - 📫 How to reach me **ayushthakur3001@gmail.com**
